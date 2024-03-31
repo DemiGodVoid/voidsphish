@@ -1,0 +1,1 @@
+# voidsphish.sh
